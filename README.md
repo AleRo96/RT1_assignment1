@@ -3,7 +3,7 @@
 ### How to run the code
 We should open three different prompts, beside the one where we run "roscore". In the first one we lunch the simulator by executing the command:
 ```
-rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world."
+rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world.
 ```
 In the third and in the fourth window we can run the two nodes by executing:
 ```
