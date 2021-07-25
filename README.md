@@ -5,7 +5,7 @@ We should open three different prompts, beside the one where we run "roscore". I
 ```
 rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world.
 ```
-In the third and in the fourth window we can run the two nodes by executing:
+In the second and in the third window we can run the two nodes by executing:
 ```
 rosrun assignment1 ProcessOne.py
 ```
